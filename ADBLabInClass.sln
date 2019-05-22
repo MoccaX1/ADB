@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB4OExample", "DB4OExample\DB4OExample.csproj", "{5E8C6BEC-27CB-4571-BE3F-B9FA87D251AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E8C6BEC-27CB-4571-BE3F-B9FA87D251AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8C6BEC-27CB-4571-BE3F-B9FA87D251AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8C6BEC-27CB-4571-BE3F-B9FA87D251AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8C6BEC-27CB-4571-BE3F-B9FA87D251AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B75AC17-D428-4AF5-9AC3-CC35D390394B}
+	EndGlobalSection
+EndGlobal
